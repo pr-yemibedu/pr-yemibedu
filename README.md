@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # pr-yemibedu
 Yemi Bedu @ PR
 
-Software Development / System Administration
+Solutions Development / System Administration
 
 HTML, CSS, Javascript
 
