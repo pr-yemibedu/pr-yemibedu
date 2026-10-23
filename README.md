@@ -1,8 +1,7 @@
-## Hi there 👋
-
 <!--
 **pr-yemibedu/pr-yemibedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# pr-yemibedu
+Yemi Bedu @ PR
+
+Software Development / System Administration
+
+HTML, CSS, Javascript
+
+F#, C#, VB.Net, Dafny
+
+Java, Groovy
+
+Scheme, Ruby, Racket, Python
+
+Rust, Nim, Zig, V, D, C, C++
+
+Haskell, Idris
+
+Assembly (Nasm), SmallTalk (Pharoah), Ocaml
+
+Io, Julia, Go, Dylan, Ada, Carp, Pony, Reason, Citrine, Beef, Min, SBCL, Tao3d
